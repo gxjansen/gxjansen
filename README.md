@@ -28,22 +28,19 @@
 
 ## 📝 Latest Blog Posts
 
-* [Often Confused Commerce Terms](https://www.gui.do/post/often-confused-commerce-terms)
-* [Optimization Hierarchy of Evidence](https://www.gui.do/post/optimization-hierarchy-of-evidence)
-
-### Dynamic
-
 <!-- BLOG-POST-LIST:START -->
 - [Often Confused Commerce Terms](https://www.gui.do/post/often-confused-commerce-terms)
 - [How you can motivate your organization to adopt CRO](https://www.gui.do/post/en-how-you-can-motivate-your-organization-to-adopt-cro)
 - [Things that are always broken in Analytics](https://www.gui.do/post/en-things-that-are-always-broken-in-analytics)
 - [Datascience can do what?](https://www.gui.do/post/en-datascience-can-do-what)
-- [Psychologen kunnen niet rekenen](https://www.gui.do/post/psychologen-kunnen-niet-rekenen)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 Latest Video's
 * [When to go with a headless architecture?](https://www.youtube.com/watch?v=OeyytLHk92Q)
 * [Why brands are adopting headless commerce](https://www.youtube.com/watch?v=MPOGC9WwhvQ)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ## 📈 GitHub Stats 
 
