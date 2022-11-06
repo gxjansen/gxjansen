@@ -49,7 +49,6 @@
 [![Live Webshops Review](https://ytcards.demolab.com/?id=k3_N14ZrW1I&title=Live+Webshops+Review&lang=en&timestamp=1596070639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Live Webshops Review")](https://www.youtube.com/watch?v=k3_N14ZrW1I)
 [![Contentsquare Virtual Breakfast Panel](https://ytcards.demolab.com/?id=paC_aXUGFT8&title=Contentsquare+Virtual+Breakfast+Panel&lang=en&timestamp=1595319574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Contentsquare Virtual Breakfast Panel")](https://www.youtube.com/watch?v=paC_aXUGFT8)
 <!-- END YOUTUBE-CARDS -->
-
 [View my YouTube channel](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ)
 
 ## 📈 GitHub Stats 
