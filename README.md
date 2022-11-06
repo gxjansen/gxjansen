@@ -26,6 +26,8 @@
 * [Why becoming a Marketplace should be your Next Big Initiative](https://www.gui.do/presentation/why-becoming-a-marketplace-should-be-your-next-big-initiative)
 * [Persuasive E-commerce](https://www.gui.do/presentation/persuasive-e-commerce)
 
+[View my presentations](https://www.gui.do/presentation)
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -34,6 +36,8 @@
 - [Things that are always broken in Analytics](https://www.gui.do/post/en-things-that-are-always-broken-in-analytics)
 - [Datascience can do what?](https://www.gui.do/post/en-datascience-can-do-what)
 <!-- BLOG-POST-LIST:END -->
+
+[View my blog](https://www.gui.do/blog)
 
 ## 📹 Latest Video's
 
@@ -45,6 +49,8 @@
 [![Live Webshops Review](https://ytcards.demolab.com/?id=k3_N14ZrW1I&title=Live+Webshops+Review&lang=en&timestamp=1596070639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Live Webshops Review")](https://www.youtube.com/watch?v=k3_N14ZrW1I)
 [![Contentsquare Virtual Breakfast Panel](https://ytcards.demolab.com/?id=paC_aXUGFT8&title=Contentsquare+Virtual+Breakfast+Panel&lang=en&timestamp=1595319574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Contentsquare Virtual Breakfast Panel")](https://www.youtube.com/watch?v=paC_aXUGFT8)
 <!-- END YOUTUBE-CARDS -->
+
+[View my YouTube channel](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ)
 
 ## 📈 GitHub Stats 
 
