@@ -31,6 +31,11 @@
 * [Often Confused Commerce Terms](https://www.gui.do/post/often-confused-commerce-terms)
 * [Optimization Hierarchy of Evidence](https://www.gui.do/post/optimization-hierarchy-of-evidence)
 
+### Dynamic
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📹 Latest Video's
 * [When to go with a headless architecture?](https://www.youtube.com/watch?v=OeyytLHk92Q)
 * [Why brands are adopting headless commerce](https://www.youtube.com/watch?v=MPOGC9WwhvQ)
