@@ -35,6 +35,7 @@
 - [How you can motivate your organization to adopt CRO](https://www.gui.do/post/en-how-you-can-motivate-your-organization-to-adopt-cro)
 - [Things that are always broken in Analytics](https://www.gui.do/post/en-things-that-are-always-broken-in-analytics)
 - [Datascience can do what?](https://www.gui.do/post/en-datascience-can-do-what)
+- [Solliciteer nu voor astronaut!](https://www.gui.do/post/solliciteer-nu-voor-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
 [View my blog](https://www.gui.do/blog)
