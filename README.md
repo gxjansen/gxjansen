@@ -36,8 +36,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 Latest Video's
-* [When to go with a headless architecture?](https://www.youtube.com/watch?v=OeyytLHk92Q)
-* [Why brands are adopting headless commerce](https://www.youtube.com/watch?v=MPOGC9WwhvQ)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Why brands are adopting headless commerce](https://ytcards.demolab.com/?id=MPOGC9WwhvQ&title=Why+brands+are+adopting+headless+commerce&lang=en&timestamp=1639694549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why brands are adopting headless commerce")](https://www.youtube.com/watch?v=MPOGC9WwhvQ)
