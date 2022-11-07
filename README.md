@@ -3,16 +3,16 @@ gxjansen/gxjansen is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![github-profile](https://user-images.githubusercontent.com/487722/198751220-1b9de445-c874-473a-a6d6-dac0fb7557b5.jpg)](https://www.gui.do)
-<h3 align="center">Hi there, I'm Guido</a> 👋</h3>
+<h1 align="center">Hi there, I'm Guido</a> 👋</h1>
 <h2 align="center">I'm a psychologist and community builder</h2>
 
 - 👀 I’m interested in E-commerce, Psychology, NoCode, DevRel, community
-- 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://github.com/spryker)
+- 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://www.spryker.com)
 - 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX
 - 💞️ I’m looking to collaborate on [Spryker](https://github.com/spryker) community projects
 - 🖥 My personal website is at [gui.do](https://www.gui.do)
 
-## Connect with me:
+## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gxjansen/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/guido/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gxjansen/)
