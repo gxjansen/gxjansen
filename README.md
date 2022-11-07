@@ -1,3 +1,7 @@
+<!---
+gxjansen/gxjansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 [![github-profile](https://user-images.githubusercontent.com/487722/198751220-1b9de445-c874-473a-a6d6-dac0fb7557b5.jpg)](https://www.gui.do)
 <h3 align="center">Hi there, I'm Guido</a> 👋</h3>
 <h2 align="center">I'm a psychologist and community builder</h2>
@@ -26,7 +30,7 @@
 * [Why becoming a Marketplace should be your Next Big Initiative](https://www.gui.do/presentation/why-becoming-a-marketplace-should-be-your-next-big-initiative)
 * [Persuasive E-commerce](https://www.gui.do/presentation/persuasive-e-commerce)
 
-[View my presentations](https://www.gui.do/presentation)
+[![View my presentations](https://img.shields.io/badge/View%20my-presentations-red?style=flat-square)](https://www.gui.do/presentation)
 
 ## 📝 Latest Blog Posts
 
@@ -38,7 +42,7 @@
 - [Solliciteer nu voor astronaut!](https://www.gui.do/post/solliciteer-nu-voor-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
-[View my blog](https://www.gui.do/blog)
+[![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
 
 ## 📹 Latest Video's
 
@@ -50,13 +54,41 @@
 [![Live Webshops Review](https://ytcards.demolab.com/?id=k3_N14ZrW1I&title=Live+Webshops+Review&lang=en&timestamp=1596070639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Live Webshops Review")](https://www.youtube.com/watch?v=k3_N14ZrW1I)
 [![Contentsquare Virtual Breakfast Panel](https://ytcards.demolab.com/?id=paC_aXUGFT8&title=Contentsquare+Virtual+Breakfast+Panel&lang=en&timestamp=1595319574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Contentsquare Virtual Breakfast Panel")](https://www.youtube.com/watch?v=paC_aXUGFT8)
 <!-- END YOUTUBE-CARDS -->
-[View my YouTube channel](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ)
 
+[![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)]([https://www.gui.do/blog](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ))
+<!---
 ## 📈 GitHub Stats 
 
-[![Guido's github stats](https://github-readme-stats.vercel.app/api?username=gxjansen)](https://github.com/gxjansen)
+[![Guido's github stats](https://github-readme-stats.vercel.app/api?username=gxjansen)](https://github.com/gxjansen)--->
 
-<!---
-gxjansen/gxjansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤩 Favorite Yools
+
+### Hardware
+![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/apple%20silicon%20M1-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Elgato](https://img.shields.io/badge/Elgato-1C23BF?style=for-the-badge&logo=elgato&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/Nvidia-70B000?style=for-the-badge&logo=nvidia&logoColor=black)
+![Oculus](https://img.shields.io/badge/Oculus-ffffff?style=for-the-badge&logo=oculus&logoColor=black)
+![RocketBook](https://img.shields.io/badge/-RocketBook-brightgreen?style=for-the-badge&color=9FC338)
+![RØDE](https://img.shields.io/badge/-R%C3%98DE-black?style=for-the-badge)
+![Stream Deck](https://img.shields.io/badge/-Stream%20Deck-1C23BF?style=for-the-badge)
+![Synology](https://img.shields.io/badge/Synology-9E9D9E?style=for-the-badge&logo=synology&logoColor=black)
+![LandRover](https://img.shields.io/badge/Landrover%20109-1C3B21?style=for-the-badge&logo=landrover&logoColor=black)
+
+### Software
+![Asana](https://img.shields.io/badge/Asana-E46565?style=for-the-badge&logo=asana&logoColor=white)
+![Audible](https://img.shields.io/badge/Audible-E48108?style=for-the-badge&logo=audible&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-2285DF?style=for-the-badge&logo=confluence&logoColor=white)
+![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F2BB2F?style=for-the-badge&logo=miro&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS%20Studio-000000?style=for-the-badge&logo=obsstudio&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-461447?style=for-the-badge&logo=slack&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+[![Strava](https://img.shields.io/badge/Strava-F44B03?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/16854732)
+![Webflow](https://img.shields.io/badge/Webflow-404FF2?style=for-the-badge&logo=webflow&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-0085F2?style=for-the-badge&logo=zoom&logoColor=white)
+
+
+
+
+
