@@ -36,10 +36,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- BLOG-POST-LIST:START -->
 - [Often Confused Commerce Terms](https://www.gui.do/post/often-confused-commerce-terms)
-- [How you can motivate your organization to adopt CRO](https://www.gui.do/post/en-how-you-can-motivate-your-organization-to-adopt-cro)
-- [Things that are always broken in Analytics](https://www.gui.do/post/en-things-that-are-always-broken-in-analytics)
+- [Optimization hierarchy of evidence](https://www.gui.do/post/optimization-hierarchy-of-evidence)
 - [Datascience can do what?](https://www.gui.do/post/en-datascience-can-do-what)
-- [Solliciteer nu voor astronaut!](https://www.gui.do/post/solliciteer-nu-voor-astronaut)
+- [Things that are always broken in Analytics](https://www.gui.do/post/en-things-that-are-always-broken-in-analytics)
+- [How you can motivate your organization to adopt CRO](https://www.gui.do/post/en-how-you-can-motivate-your-organization-to-adopt-cro)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
