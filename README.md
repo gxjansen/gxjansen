@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Guido's github stats](https://github-readme-stats.vercel.app/api?username=gxjansen)](https://github.com/gxjansen)--->
 
-## 🤩 Favorite Yools
+## 🤩 Favorite Tools
 
 ### Hardware
 ![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
