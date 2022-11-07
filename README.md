@@ -87,9 +87,5 @@ You can click the Preview link to take a look at your changes.
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 [![Strava](https://img.shields.io/badge/Strava-F44B03?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/16854732)
 ![Webflow](https://img.shields.io/badge/Webflow-404FF2?style=for-the-badge&logo=webflow&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-F74800?style=for-the-badge&logo=zapier&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-0085F2?style=for-the-badge&logo=zoom&logoColor=white)
-
-
-
-
-
