@@ -83,6 +83,7 @@ You can click the Preview link to take a look at your changes.
 ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F2BB2F?style=for-the-badge&logo=miro&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS%20Studio-000000?style=for-the-badge&logo=obsstudio&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-461447?style=for-the-badge&logo=slack&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 [![Strava](https://img.shields.io/badge/Strava-F44B03?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/16854732)
