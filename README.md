@@ -47,12 +47,12 @@ You can click the Preview link to take a look at your changes.
 ## 📹 Latest Video's
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Educating your CRO clients & hiring for your CRO agency](https://ytcards.demolab.com/?id=iQR134Y9TH0&title=Educating+your+CRO+clients+%26+hiring+for+your+CRO+agency&lang=en&timestamp=1672473616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Educating your CRO clients & hiring for your CRO agency")](https://www.youtube.com/watch?v=iQR134Y9TH0)
 [![Why brands are adopting headless commerce](https://ytcards.demolab.com/?id=MPOGC9WwhvQ&title=Why+brands+are+adopting+headless+commerce&lang=en&timestamp=1639694549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why brands are adopting headless commerce")](https://www.youtube.com/watch?v=MPOGC9WwhvQ)
 [![When to go with a headless architecture?](https://ytcards.demolab.com/?id=OeyytLHk92Q&title=When+to+go+with+a+headless+architecture%3F&lang=en&timestamp=1639694358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "When to go with a headless architecture?")](https://www.youtube.com/watch?v=OeyytLHk92Q)
 [![Winning the Experimentation Culture Awards 2020](https://ytcards.demolab.com/?id=JEVc5-lRAOc&title=Winning+the+Experimentation+Culture+Awards+2020&lang=en&timestamp=1601037575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Winning the Experimentation Culture Awards 2020")](https://www.youtube.com/watch?v=JEVc5-lRAOc)
 [![Picking software to run a business livestream](https://ytcards.demolab.com/?id=L9i99ZY_iT4&title=Picking+software+to+run+a+business+livestream&lang=en&timestamp=1597889226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Picking software to run a business livestream")](https://www.youtube.com/watch?v=L9i99ZY_iT4)
 [![Live Webshops Review](https://ytcards.demolab.com/?id=k3_N14ZrW1I&title=Live+Webshops+Review&lang=en&timestamp=1596070639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Live Webshops Review")](https://www.youtube.com/watch?v=k3_N14ZrW1I)
-[![Contentsquare Virtual Breakfast Panel](https://ytcards.demolab.com/?id=paC_aXUGFT8&title=Contentsquare+Virtual+Breakfast+Panel&lang=en&timestamp=1595319574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Contentsquare Virtual Breakfast Panel")](https://www.youtube.com/watch?v=paC_aXUGFT8)
 <!-- END YOUTUBE-CARDS -->
 
 [![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)]([https://www.gui.do/blog](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ))
