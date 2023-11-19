@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in E-commerce, Psychology, NoCode, DevRel, community
 - 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://www.spryker.com)
-- 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX
+- 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX aka (controlled) Business Experimentation
 - 💞️ I’m looking to collaborate on [Spryker](https://github.com/spryker) community projects
 - 🖥 My personal website is at [gui.do](https://www.gui.do)
 
