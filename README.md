@@ -47,12 +47,7 @@ You can click the Preview link to take a look at your changes.
 ## 📹 Latest Video's
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Spryker EXCITE & Hackathon warm-up!](https://ytcards.demolab.com/?id=CkxdsISrnJE&title=Spryker+EXCITE+%26+Hackathon+warm-up%21&lang=en&timestamp=1694010877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Spryker EXCITE & Hackathon warm-up!")](https://www.youtube.com/watch?v=CkxdsISrnJE)
-[![Mr Metaverse Rap](https://ytcards.demolab.com/?id=hrDj3hx8VIY&title=Mr+Metaverse+Rap&lang=en&timestamp=1685601978&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mr Metaverse Rap")](https://www.youtube.com/watch?v=hrDj3hx8VIY)
-[![How do you maintain a no-BS style](https://ytcards.demolab.com/?id=48OI9gWeyoc&title=How+do+you+maintain+a+no-BS+style&lang=en&timestamp=1672511390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How do you maintain a no-BS style")](https://www.youtube.com/watch?v=48OI9gWeyoc)
-[![Educating your CRO clients & hiring for your CRO agency](https://ytcards.demolab.com/?id=iQR134Y9TH0&title=Educating+your+CRO+clients+%26+hiring+for+your+CRO+agency&lang=en&timestamp=1672473616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Educating your CRO clients & hiring for your CRO agency")](https://www.youtube.com/watch?v=iQR134Y9TH0)
-[![Why brands are adopting headless commerce](https://ytcards.demolab.com/?id=MPOGC9WwhvQ&title=Why+brands+are+adopting+headless+commerce&lang=en&timestamp=1639694549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why brands are adopting headless commerce")](https://www.youtube.com/watch?v=MPOGC9WwhvQ)
-[![When to go with a headless architecture?](https://ytcards.demolab.com/?id=OeyytLHk92Q&title=When+to+go+with+a+headless+architecture%3F&lang=en&timestamp=1639694358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "When to go with a headless architecture?")](https://www.youtube.com/watch?v=OeyytLHk92Q)
+
 <!-- END YOUTUBE-CARDS -->
 
 [![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)]([https://www.gui.do/blog](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ))
