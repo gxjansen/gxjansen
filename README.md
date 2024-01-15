@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 ![RØDE](https://img.shields.io/badge/-R%C3%98DE-black?style=for-the-badge)
 ![Stream Deck](https://img.shields.io/badge/-Stream%20Deck-1C23BF?style=for-the-badge)
 ![Synology](https://img.shields.io/badge/Synology-9E9D9E?style=for-the-badge&logo=synology&logoColor=black)
-![LandRover](https://img.shields.io/badge/Landrover%20109-1C3B21?style=for-the-badge&logo=landrover&logoColor=black)
+![LandRover](https://img.shields.io/badge/Landrover%20109-D49F50?style=for-the-badge&logo=landrover&logoColor=black)
 
 ### Software
 ![Asana](https://img.shields.io/badge/Asana-E46565?style=for-the-badge&logo=asana&logoColor=white)
