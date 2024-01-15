@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hardware
 ![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
-![Apple Silicon](https://img.shields.io/badge/apple%20silicon%20M1-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/apple%20silicon%20M2-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Elgato](https://img.shields.io/badge/Elgato-1C23BF?style=for-the-badge&logo=elgato&logoColor=white)
 ![Logitech](https://img.shields.io/badge/Logitech-009ED5?style=for-the-badge&logo=logitech&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/Nvidia-70B000?style=for-the-badge&logo=nvidia&logoColor=black)
