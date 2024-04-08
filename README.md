@@ -1,6 +1,6 @@
 [![github-profile](https://user-images.githubusercontent.com/487722/198751220-1b9de445-c874-473a-a6d6-dac0fb7557b5.jpg)](https://www.gui.do)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1EBEA0&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guido;I'm+a+Cognitive+Psychologist+%F0%9F%A7%A0%2C;+Tech+Evangelist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;and+Community+Builder+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1EBEA0&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guido;I'm+a+Cognitive+Psychologist+%F0%9F%A7%A0%2C...;+...Tech+Evangelist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB,...;...and+Community+Builder+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 * 🌍 I'm based in The Netherlands 🇳🇱
 * 👀 I’m interested in E-commerce, Psychology, NoCode, DevRel, community
