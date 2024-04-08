@@ -1,24 +1,16 @@
-<!---
-gxjansen/gxjansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [![github-profile](https://user-images.githubusercontent.com/487722/198751220-1b9de445-c874-473a-a6d6-dac0fb7557b5.jpg)](https://www.gui.do)
-<h1 align="center">Hi there, I'm Guido</a> 👋</h1>
-<h2 align="center">I'm a psychologist and community builder</h2>
 
-- 👀 I’m interested in E-commerce, Psychology, NoCode, DevRel, community
-- 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://www.spryker.com)
-- 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX aka (controlled) Business Experimentation
-- 💞️ I’m looking to collaborate on [Spryker](https://github.com/spryker) community projects
-- 🖥 My personal website is at [gui.do](https://www.gui.do)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1EBEA0&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guido;I'm+a+Cognitive+Psychologist+%F0%9F%A7%A0%2C;+Tech+Evangelist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;and+Community+Builder+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-## 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gxjansen/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/guido/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gxjansen/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8094173/guido-x-jansen)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/gxjansen)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/GuidoJansen)
+* 🌍 I'm based in The Netherlands 🇳🇱
+* 👀 I’m interested in E-commerce, Psychology, NoCode, DevRel, community
+* 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://www.spryker.com)
+* 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX aka (controlled) Business Experimentation
+* 💞️ I’m looking to collaborate on [Spryker Community](https://github.com/spryker-community) projects
+* 🖥 My personal website is at [gui.do](https://www.gui.do)
+
+## 🤝 Socials
+<p align="left"> <a href="https://www.github.com/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/guido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ## 👨‍🏫 Latest Presentations:
 
@@ -56,12 +48,14 @@ You can click the Preview link to take a look at your changes.
 <!-- END YOUTUBE-CARDS -->
 
 [![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)]([https://www.gui.do/blog](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ))
-<!---
+
 ## 📈 GitHub Stats 
 
-[![Guido's github stats](https://github-readme-stats.vercel.app/api?username=gxjansen)](https://github.com/gxjansen)--->
+<a href="http://www.github.com/gxjansen"><img src="https://github-readme-stats.vercel.app/api?username=gxjansen&show_icons=true&hide=&count_private=true&title_color=1EBEA0&text_color=ffffff&icon_color=1EBEA0&bg_color=1c1917&hide_border=true&show_icons=true" alt="gxjansen's GitHub stats" /></a>
 
-## 🤩 Favorite Tools
+And that for someone that is not even a developer! :D
+
+## 🤩 Frequent Tools
 
 ### Hardware
 ![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
@@ -78,6 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Software
 ![Asana](https://img.shields.io/badge/Asana-E46565?style=for-the-badge&logo=asana&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Audible](https://img.shields.io/badge/Audible-E48108?style=for-the-badge&logo=audible&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-2285DF?style=for-the-badge&logo=confluence&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
