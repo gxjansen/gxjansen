@@ -39,7 +39,12 @@
 ## 📹 Latest Video's
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Communities and AI](https://ytcards.demolab.com/?id=N-7FEWrmhB8&title=Communities+and+AI&lang=en&timestamp=1713132017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Communities and AI")](https://www.youtube.com/watch?v=N-7FEWrmhB8)
+[![Why businesses need communities](https://ytcards.demolab.com/?id=BF-p08I0CmM&title=Why+businesses+need+communities&lang=en&timestamp=1712786407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why businesses need communities")](https://www.youtube.com/watch?v=BF-p08I0CmM)
+[![Turning lurkers to engaged members](https://ytcards.demolab.com/?id=_P2P2AsPHRU&title=Turning+lurkers+to+engaged+members&lang=en&timestamp=1712613628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Turning lurkers to engaged members")](https://www.youtube.com/watch?v=_P2P2AsPHRU)
+[![Building communities in person](https://ytcards.demolab.com/?id=ir7F7PJa80c&title=Building+communities+in+person&lang=en&timestamp=1712574038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Building communities in person")](https://www.youtube.com/watch?v=ir7F7PJa80c)
+[![The Pacman Rule #communitybuilding](https://ytcards.demolab.com/?id=c4kvGcjOqis&title=The+Pacman+Rule+%23communitybuilding&lang=en&timestamp=1712218588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Pacman Rule #communitybuilding")](https://www.youtube.com/watch?v=c4kvGcjOqis)
+[![The Hierarchy of Evidence in Digital Marketing: From Expert Reviews to repeated A/B testing](https://ytcards.demolab.com/?id=JA-ka75NkhI&title=The+Hierarchy+of+Evidence+in+Digital+Marketing%3A+From+Expert+Reviews+to+repeated+A%2FB+testing&lang=en&timestamp=1707834026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Hierarchy of Evidence in Digital Marketing: From Expert Reviews to repeated A/B testing")](https://www.youtube.com/watch?v=JA-ka75NkhI)
 <!-- END YOUTUBE-CARDS -->
 
 [![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)]([https://www.gui.do/blog](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ))
