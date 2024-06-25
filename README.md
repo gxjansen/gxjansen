@@ -29,9 +29,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Often Confused Commerce Terms](https://www.gui.do/post/often-confused-commerce-terms)
 - [Optimization hierarchy of evidence](https://www.gui.do/post/optimization-hierarchy-of-evidence)
-- [Datascience can do what?](https://www.gui.do/post/en-datascience-can-do-what)
-- [Things that are always broken in Analytics](https://www.gui.do/post/en-things-that-are-always-broken-in-analytics)
-- [How you can motivate your organization to adopt CRO](https://www.gui.do/post/en-how-you-can-motivate-your-organization-to-adopt-cro)
+- [Are you LEFT or RIGHT brain? Surprise: you&#39;re both](https://www.gui.do/post/are-you-left-or-right-brain-surprise-youre-both)
+- [The Art and Science of Converting Visitors into Customers](https://www.gui.do/post/the-art-and-science-of-converting-visitors-into-customers)
+- [Find CRO gold using an SEO crawler](https://www.gui.do/post/find-cro-gold-using-an-seo-crawler)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
