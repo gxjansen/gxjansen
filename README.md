@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1EBEA0&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guido;I'm+a+Cognitive+Psychologist+%F0%9F%A7%A0%2C...;+...Tech+Evangelist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB,...;...and+Community+Builder+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 * 🌍 I'm based in The Netherlands 🇳🇱
-* 👀 I’m interested in E-commerce, Psychology, NoCode, DevRel, community
+* 👀 I’m interested in E-commerce, Psychology, DevRel, community
 * 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://www.spryker.com)
 * 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX aka (controlled) Business Experimentation
 * 💞️ I’m looking to collaborate on [Spryker Community](https://github.com/spryker-community) projects
