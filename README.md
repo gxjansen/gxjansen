@@ -47,7 +47,7 @@
 [![The Hierarchy of Evidence in Digital Marketing: From Expert Reviews to repeated A/B testing](https://ytcards.demolab.com/?id=JA-ka75NkhI&title=The+Hierarchy+of+Evidence+in+Digital+Marketing%3A+From+Expert+Reviews+to+repeated+A%2FB+testing&lang=en&timestamp=1707834026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Hierarchy of Evidence in Digital Marketing: From Expert Reviews to repeated A/B testing")](https://www.youtube.com/watch?v=JA-ka75NkhI)
 <!-- END YOUTUBE-CARDS -->
 
-[![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)]([https://www.gui.do/blog](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ))
+[![View my YouTube channel](https://img.shields.io/badge/View%20my-YouTube%20Channel-red?style=flat-square)](https://www.youtube.com/channel/UCaJ2aTnZonOrp0t2DOA-NnQ)
 
 ## 📈 GitHub Stats 
 
