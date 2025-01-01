@@ -27,11 +27,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Often Confused Commerce Terms](https://www.gui.do/post/often-confused-commerce-terms)
-- [Optimization hierarchy of evidence](https://www.gui.do/post/optimization-hierarchy-of-evidence)
-- [Magento Masters Spotlight: Guido Jansen](https://www.gui.do/post/magento-masters-spotlight-guido-jansen)
-- [The Story of Spryker with CEO Boris Lokschin](https://www.gui.do/post/the-story-of-spryker-with-ceo-boris-lokschin)
-- [Magento Masters: Mentor 2019](https://www.gui.do/post/magento-master-2019)
+- [Website moved to Astro](https://gui.do/post/website-moved-to-astro/)
+- [Often Confused Commerce Terms](https://gui.do/post/often-confused-commerce-terms/)
+- [Optimization hierarchy of evidence](https://gui.do/post/optimization-hierarchy-of-evidence/)
+- [Are you LEFT or RIGHT brain? Surprise: you&#39;re both](https://gui.do/post/are-you-left-or-right-brain-surprise-youre-both/)
+- [The Story of Spryker with CEO Boris Lokschin](https://gui.do/post/the-story-of-spryker-with-ceo-boris-lokschin/)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
