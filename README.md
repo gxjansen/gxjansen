@@ -27,7 +27,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mid to long term concerns with AI programming](https://gui.do/post/mid-to-long-term-concerns-with-ai-programming/)
+- [Concerns with AI programming](https://gui.do/post/mid-to-long-term-concerns-with-ai-programming/)
 - [4 options to customize your LLM](https://gui.do/post/4-options-to-customize-your-llm/)
 - [Website moved to Astro](https://gui.do/post/website-moved-to-astro/)
 - [Often Confused Commerce Terms](https://gui.do/post/often-confused-commerce-terms/)
