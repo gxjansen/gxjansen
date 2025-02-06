@@ -73,7 +73,6 @@ And that for someone who's is not even a developer! :D
 ### Software
 ![Asana](https://img.shields.io/badge/Asana-E46565?style=for-the-badge&logo=asana&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Audible](https://img.shields.io/badge/Audible-E48108?style=for-the-badge&logo=audible&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-2285DF?style=for-the-badge&logo=confluence&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F2BB2F?style=for-the-badge&logo=miro&logoColor=white)
@@ -82,6 +81,3 @@ And that for someone who's is not even a developer! :D
 ![Slack](https://img.shields.io/badge/Slack-461447?style=for-the-badge&logo=slack&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 [![Strava](https://img.shields.io/badge/Strava-F44B03?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/16854732)
-![Webflow](https://img.shields.io/badge/Webflow-404FF2?style=for-the-badge&logo=webflow&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-F74800?style=for-the-badge&logo=zapier&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-0085F2?style=for-the-badge&logo=zoom&logoColor=white)
