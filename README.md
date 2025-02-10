@@ -59,7 +59,7 @@ And that for someone who's is not even a developer! :D
 
 ### Hardware
 ![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
-![Apple Silicon](https://img.shields.io/badge/apple%20silicon%20M2-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/Apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Elgato](https://img.shields.io/badge/Elgato-1C23BF?style=for-the-badge&logo=elgato&logoColor=white)
 ![Logitech](https://img.shields.io/badge/Logitech-009ED5?style=for-the-badge&logo=logitech&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/Nvidia-70B000?style=for-the-badge&logo=nvidia&logoColor=black)
@@ -76,6 +76,7 @@ And that for someone who's is not even a developer! :D
 ![Confluence](https://img.shields.io/badge/Confluence-2285DF?style=for-the-badge&logo=confluence&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F2BB2F?style=for-the-badge&logo=miro&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS%20Studio-000000?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-461447?style=for-the-badge&logo=slack&logoColor=white)
