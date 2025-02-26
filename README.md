@@ -27,11 +27,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Collapse of Traditional Commerce - Why Innovation is No Longer Optional](https://gui.do/post/the-collapse-of-traditional-commerce-why-innovation-is-no-longer-optional/)
 - [Concerns with AI programming](https://gui.do/post/mid-to-long-term-concerns-with-ai-programming/)
 - [4 options to customize your LLM](https://gui.do/post/4-options-to-customize-your-llm/)
 - [Website moved to Astro](https://gui.do/post/website-moved-to-astro/)
 - [Why Every Moment Looks Like a Turning Point in Exponential Growth](https://gui.do/post/why-every-moment-looks-like-a-turning-point-in-exponential-growth/)
-- [How to Build an Online B2B Community](https://gui.do/post/how-to-build-an-online-b2b-community/)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
