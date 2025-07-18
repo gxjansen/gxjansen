@@ -61,7 +61,7 @@ And that for someone who's is not even a developer! :D
 ![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Elgato](https://img.shields.io/badge/Elgato-1C23BF?style=for-the-badge&logo=elgato&logoColor=white)
-![RocketBook](https://img.shields.io/badge/-RocketBook-brightgreen?style=for-the-badge&color=9FC338)
+![SuperNote](https://img.shields.io/badge/-SuperNote-000000?style=for-the-badge&color=000000)
 ![RØDE](https://img.shields.io/badge/-R%C3%98DE-black?style=for-the-badge)
 ![Stream Deck](https://img.shields.io/badge/-Stream%20Deck-1C23BF?style=for-the-badge)
 ![Synology](https://img.shields.io/badge/Synology-9E9D9E?style=for-the-badge&logo=synology&logoColor=black)
@@ -70,7 +70,6 @@ And that for someone who's is not even a developer! :D
 ### Software
 ![Asana](https://img.shields.io/badge/Asana-E46565?style=for-the-badge&logo=asana&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-2285DF?style=for-the-badge&logo=confluence&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS%20Studio-000000?style=for-the-badge&logo=obsstudio&logoColor=white)
