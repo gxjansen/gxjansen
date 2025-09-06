@@ -28,10 +28,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RPi Pirate audio side project](https://gui.do/post/rpi-pirate-audio-side-project/)
+- [7 Hard-&lpar;l&rpar;earned lessons for building reliable AI workflows](https://gui.do/post/7-hard-learned-lessons-for-building-reliable-ai-workflows/)
 - [The Collapse of Traditional Commerce - Why Innovation is No Longer Optional](https://gui.do/post/the-collapse-of-traditional-commerce-why-innovation-is-no-longer-optional/)
 - [Concerns with AI programming](https://gui.do/post/mid-to-long-term-concerns-with-ai-programming/)
 - [4 options to customize your LLM](https://gui.do/post/4-options-to-customize-your-llm/)
-- [Website moved to Astro](https://gui.do/post/website-moved-to-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
