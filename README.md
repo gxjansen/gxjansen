@@ -27,11 +27,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start building Anti-Fragile communities, your community deserves it](https://gui.do/post/start-building-anti-fragile-communities/)
 - [Ditching &quot;One community idea per month&quot;: Our hackathon path to 80+ community projects](https://gui.do/post/ditching-one-community-idea-per-month/)
 - [How I reduced my BigTech dependencies in 2025 &lpar;and why you should too&rpar;](https://gui.do/post/how-i-reduced-my-bigtech-dependencies-in-2025/)
 - [RPi Pirate audio side project](https://gui.do/post/rpi-pirate-audio-side-project/)
 - [7 Hard-&lpar;l&rpar;earned lessons for building reliable AI workflows](https://gui.do/post/7-hard-learned-lessons-for-building-reliable-ai-workflows/)
-- [The Collapse of Traditional Commerce - Why Innovation is No Longer Optional](https://gui.do/post/the-collapse-of-traditional-commerce-why-innovation-is-no-longer-optional/)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
