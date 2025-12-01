@@ -2,15 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1EBEA0&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Guido;I'm+a+Cognitive+Psychologist+%F0%9F%A7%A0%2C...;+...Tech+Evangelist+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB,...;...and+Community+Builder+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-* 🌍 I'm based in The Netherlands 🇳🇱
-* 👀 I’m interested in E-commerce, Psychology, DevRel, community
-* 👨‍💻 I work as the Global Business & Technology Evangelist [Spryker](https://www.spryker.com)
-* 🧠 I'm a Cognitive Psychologist and previously worked in CRO/CX/UX aka (controlled) Business Experimentation
-* 💞️ I’m looking to collaborate on [Spryker Community](https://github.com/spryker-community) projects
-* 🖥 My personal website is at [gui.do](https://www.gui.do)
+## What I do
+- 🌱 **Build communities from zero** — Joomla!, Dutchento/Meet Magento (600+ attendees), CRO.CAFE (200+ episodes), Spryker enterprise community
+- 🎤 **200+ conference talks** across 26 countries on community, commerce, and experimentation
+- 🧠 **Cognitive psychologist** — I bring behavioral frameworks to community design
+
+## What I'm exploring
+- 🤖 AI automation workflows (n8n, Ollama, local LLMs)
+- 🏠 Self-hosted infrastructure & privacy-first tools
+- 🌐 Open source community models
+
+## Not a Software Engineer, but...
+I tinker with tools, automate workflows, and occasionally break things in interesting ways. My value isn't in writing code — it's in understanding ecosystems and translating community intelligence into business outcomes.
+
+🌍 I'm based in The Netherlands 🇳🇱 and my personal website is at [gui.do](https://www.gui.do)
 
 ## 🤝 Socials
-<p align="left"> <a href="https://www.github.com/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/guido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a> <a href="https://www.linkedin.com/in/gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a> <a href="https://www.youtube.com/@gxjansen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture></a></p>
 
 ## 👨‍🏫 Latest Presentations:
 
@@ -61,19 +69,34 @@ And that for someone who's is not even a developer! :D
 ![Android](https://img.shields.io/badge/Android-9CBC36?style=for-the-badge&logo=android&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Elgato](https://img.shields.io/badge/Elgato-1C23BF?style=for-the-badge&logo=elgato&logoColor=white)
-![SuperNote](https://img.shields.io/badge/-SuperNote-000000?style=for-the-badge&color=000000)
+![Firewalla](https://img.shields.io/badge/-Firewalla-000000?style=for-the-badge&color=FF7139)
+![LandRover](https://img.shields.io/badge/Landrover%20109-D49F50?style=for-the-badge&logo=landrover&logoColor=black)
+![Lenovo](https://img.shields.io/badge/ThinkPad-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![RØDE](https://img.shields.io/badge/-R%C3%98DE-black?style=for-the-badge)
 ![Stream Deck](https://img.shields.io/badge/-Stream%20Deck-1C23BF?style=for-the-badge)
+![SuperNote](https://img.shields.io/badge/-SuperNote-000000?style=for-the-badge&color=000000)
 ![Synology](https://img.shields.io/badge/Synology-9E9D9E?style=for-the-badge&logo=synology&logoColor=black)
-![LandRover](https://img.shields.io/badge/Landrover%20109-D49F50?style=for-the-badge&logo=landrover&logoColor=black)
+![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 ### Software
-![Asana](https://img.shields.io/badge/Asana-E46565?style=for-the-badge&logo=asana&logoColor=white)
+![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Homebrew](https://img.shields.io/badge/homebrew-%23FBB040.svg?style=for-the-badge&logo=homebrew&logoColor=black)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![NocoDB](https://img.shields.io/badge/-NocoDB-000000?style=for-the-badge&color=0559C9)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS%20Studio-000000?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-461447?style=for-the-badge&logo=slack&logoColor=white)
+![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 [![Strava](https://img.shields.io/badge/Strava-F44B03?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/16854732)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
