@@ -13,7 +13,7 @@
 - 🌐 Open source community models
 
 ## Not a Software Engineer, but...
-I tinker with tools, automate workflows, and occasionally break things in interesting ways. My value isn't in writing code — it's in understanding ecosystems and translating community intelligence into business outcomes.
+I tinker with many (AI, self-hosted) tools, automate workflows, and occasionally break things in interesting ways... 😅. I don't write code professionally, but I do have a deep understanding of technology ecosystems and translating community intelligence into business outcomes.
 
 🌍 I'm based in The Netherlands 🇳🇱 and my personal website is at [gui.do](https://www.gui.do)
 
