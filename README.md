@@ -35,11 +35,11 @@ I tinker with many (AI, self-hosted) tools, automate workflows, and occasionally
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BigTech independence update: cleaning house for local AI](https://gui.do/post/bigtech-independence-update-cleaning-house-for-local-ai/)
 - [A practical guide to building your own antifragile tech stack](https://gui.do/post/practical-guide-to-building-antifragile-tech-stack/)
 - [Start building Anti-Fragile communities, your community deserves it](https://gui.do/post/start-building-anti-fragile-communities/)
 - [Ditching &quot;One community idea per month&quot;: Our hackathon path to 80+ community projects](https://gui.do/post/ditching-one-community-idea-per-month/)
 - [How I reduced my BigTech dependencies in 2025 &lpar;and why you should too&rpar;](https://gui.do/post/how-i-reduced-my-bigtech-dependencies-in-2025/)
-- [RPi Pirate audio side project](https://gui.do/post/rpi-pirate-audio-side-project/)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
