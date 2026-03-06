@@ -35,7 +35,7 @@ I tinker with many (AI, self-hosted) tools, automate workflows, and occasionally
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI slop is drowning communities. Reputation systems can fix it.](https://gui.do/post/ai-slop-reputation/)
+- [AI slop is drowning communities. Verifiable track records can fix it.](https://gui.do/post/ai-slop-reputation/)
 - [Barazo: community forums where members own their data](https://gui.do/post/introducing-barazo-community-forums/)
 - [Better Not Waste It](https://gui.do/post/better-not-waste-it/)
 - [BigTech independence update: cleaning house for local AI](https://gui.do/post/bigtech-independence-update-cleaning-house-for-local-ai/)
