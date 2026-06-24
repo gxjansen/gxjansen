@@ -35,7 +35,7 @@ I tinker with many (AI, self-hosted) tools, automate workflows, and occasionally
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t own your network](https://gui.do/post/atproto-series-01-you-dont-own-your-network/)
+- [Who actually owns your network?](https://gui.do/post/atproto-series-01-you-dont-own-your-network/)
 - [Outsource your GitHub CI to a VPS: cheaper, faster, and a free backup server too](https://gui.do/post/self-hosted-github-runner-vps/)
 - [Make links to your blog render the custom &quot;View publication&quot; card + CTA](https://gui.do/post/standard-site-card-on-bluesky/)
 - [ATmosphere Conf 2026: the internet built for people, not platforms](https://gui.do/post/atmosphere-conf-2026/)
