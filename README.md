@@ -35,11 +35,11 @@ I tinker with many (AI, self-hosted) tools, automate workflows, and occasionally
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your identity isn&#39;t your username](https://gui.do/post/atproto-series-02-your-identity-isnt-your-username/)
 - [Who actually owns your network?](https://gui.do/post/atproto-series-01-you-dont-own-your-network/)
 - [Outsource your GitHub CI to a VPS: cheaper, faster, and a free backup server too](https://gui.do/post/self-hosted-github-runner-vps/)
 - [Make links to your blog render the custom &quot;View publication&quot; card + CTA](https://gui.do/post/standard-site-card-on-bluesky/)
 - [ATmosphere Conf 2026: the internet built for people, not platforms](https://gui.do/post/atmosphere-conf-2026/)
-- [Running Doom over the AT Protocol](https://gui.do/post/doom-over-at-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 [![View my blog](https://img.shields.io/badge/View%20my-blog-red?style=flat-square)](https://www.gui.do/blog)
